@@ -3,6 +3,8 @@ import './App.css';
 import Footer from './Footer';
 import Header from './Header';
 import Magazine from './Magazine';
+import LogRocket from 'logrocket';
+LogRocket.init('l89yug/bt-news-app');
 
 function App() {
 	const APP_KEY = 'abc8d87d7c574af69335c90025f2638a';

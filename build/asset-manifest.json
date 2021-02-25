@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bt-news-app/static/css/main.395271bd.chunk.css",
+    "main.js": "/bt-news-app/static/js/main.52e1dbf5.chunk.js",
+    "main.js.map": "/bt-news-app/static/js/main.52e1dbf5.chunk.js.map",
+    "runtime-main.js": "/bt-news-app/static/js/runtime-main.d1a22526.js",
+    "runtime-main.js.map": "/bt-news-app/static/js/runtime-main.d1a22526.js.map",
+    "static/js/2.2e10eaa6.chunk.js": "/bt-news-app/static/js/2.2e10eaa6.chunk.js",
+    "static/js/2.2e10eaa6.chunk.js.map": "/bt-news-app/static/js/2.2e10eaa6.chunk.js.map",
+    "static/js/3.4077bf67.chunk.js": "/bt-news-app/static/js/3.4077bf67.chunk.js",
+    "static/js/3.4077bf67.chunk.js.map": "/bt-news-app/static/js/3.4077bf67.chunk.js.map",
+    "index.html": "/bt-news-app/index.html",
+    "static/css/main.395271bd.chunk.css.map": "/bt-news-app/static/css/main.395271bd.chunk.css.map",
+    "static/js/2.2e10eaa6.chunk.js.LICENSE.txt": "/bt-news-app/static/js/2.2e10eaa6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1a22526.js",
+    "static/js/2.2e10eaa6.chunk.js",
+    "static/css/main.395271bd.chunk.css",
+    "static/js/main.52e1dbf5.chunk.js"
+  ]
+}
