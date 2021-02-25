@@ -62,7 +62,7 @@ function App() {
 					key={index}
 					title={item.title}
 					author={item.author}
-					description={item.description}
+					content={item.content}
 					urlToImage={item.urlToImage}
 					url={item.url}
 				/>
